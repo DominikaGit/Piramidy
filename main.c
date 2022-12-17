@@ -6,7 +6,12 @@ int main() {
     printf("Wpisz liczbe rzedow: \n");
     scanf("%d", &k);
 
-    //jaka petla dla polpiramidy?
+    for (i = 1; i <= k; ++i) {
+        for (j = 1; j <= i; ++j) {
+            printf("%d ", j);
+        }
+        printf("\n");
+    }
 
     return 0;
 }
