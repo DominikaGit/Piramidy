@@ -1,0 +1,3 @@
+/home/dominika/GIT/Piramidy/cmake-build-debug/CMakeFiles/Piramidy.dir
+/home/dominika/GIT/Piramidy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dominika/GIT/Piramidy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
